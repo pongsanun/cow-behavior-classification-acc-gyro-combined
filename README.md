@@ -24,7 +24,7 @@ Accurate and automated behavior monitoring is vital for precision livestock farm
 - **Performance Metrics:** Accuracy, Precision, Sensitivity, and F1-score (macro-averaged)
 
 ## Framework of this project
-![Project Framework](images/project framework.png)
+![Project Framework](images/project_framework.png)
 
 ## Repository Structure
 ```plaintext
