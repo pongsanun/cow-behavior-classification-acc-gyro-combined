@@ -23,9 +23,13 @@ Accurate and automated behavior monitoring is vital for precision livestock farm
 - **Validation:** Stratified 80/20 data split; 10 repeated iterations per individual cow
 - **Performance Metrics:** Accuracy, Precision, Sensitivity, and F1-score (macro-averaged)
 
+## Conceptual Framework of this project
+
+
 ## Repository Structure
 ```plaintext
 data/              # Sample CSV or Excel files with annotated sensor data
 code/              # Python scripts for data preprocessing, feature extraction, and model training
+                   # R scripts for data analysis, statistical analysis
 README.md          # Project description and overview
 
