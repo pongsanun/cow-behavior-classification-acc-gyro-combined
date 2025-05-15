@@ -1,6 +1,6 @@
 # Process of Individual Dairy Cow Behaviors Classification Using Neck-mounted collar of activity meter.
 
-This repository hosts the data and code for a research project that investigates sensor-based behavior classification in dairy cows. The study focuses on the integration of accelerometer and gyroscope data to classify four key behaviors—**lying**, **standing**, **eating**, and **walking**—at the individual animal level using machine learning.
+This repository hosts the data and code for a research project that investigates sensor-based behavior classification in dairy cows. The study focuses on the integration of accelerometer and gyroscope data to classify four key behaviors: **lying**, **standing**, **eating**, and **walking** at the individual animal level using machine learning.
 
 ## Project Objectives
 - To evaluate the performance of accelerometer-only, gyroscope-only, and combined sensor models for cow behavior classification.
